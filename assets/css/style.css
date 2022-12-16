@@ -142,6 +142,7 @@ p {
     padding: 30px;
     text-align: center;
     margin: 0px;
+    font-size: 40px;
 }
 
 .box p {
@@ -166,4 +167,9 @@ p {
     nav {
         flex-direction: column;
     }
+
+    .tab h2 {
+        width: 55%;
+    }
+    
 }
