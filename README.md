@@ -5,9 +5,10 @@
 
 ## Visuals
     Here is a visual of what the deployed site looks like-
-    ![Screenshot_20221215_100655](https://user-images.githubusercontent.com/118483617/208020218-38464b96-f8b1-4ee9-bb52-0d13c77640b7.png)
-    ![Screenshot_20221215_100713](https://user-images.githubusercontent.com/118483617/208020231-b118b3ff-07f4-4891-99f2-2b33dc3f773c.png)
-    ![Screenshot_20221215_100731](https://user-images.githubusercontent.com/118483617/208020254-afa20fc9-342a-4674-b254-579524c886d9.png)
+  ![Screenshot 2023-03-25 221218](https://user-images.githubusercontent.com/118483617/227753205-b2e65054-8590-4bf6-8523-e10ba75e614b.png)
+![Screenshot 2023-03-25 221231](https://user-images.githubusercontent.com/118483617/227753210-3db216f2-86ba-495d-9c5c-2d40afb72b7b.png)
+![Screenshot 2023-03-25 221241](https://user-images.githubusercontent.com/118483617/227753215-26317d94-6f1a-43b8-9955-835bd2678f0a.png)
+![Screenshot 2023-03-25 221254](https://user-images.githubusercontent.com/118483617/227753219-f513a7e5-7428-4f3c-aca2-2a956f62b2d5.png)
 
 ## Installation
     N/A
